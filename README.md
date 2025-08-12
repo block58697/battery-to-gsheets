@@ -1,13 +1,6 @@
 透過 shell script 讀取 macOS 筆電的電池資訊（循環次數與最大容量），
 並使用 Google Apps Script 將資料上傳到 Google Sheets。
 
-## 專案結構
-```
-.
-├── battery_log.sh     # 主要的 Shell Script
-├── apps_script.gs     # Google Apps Script 範例
-└── README.md
-```
 
 ## 使用方式
 
