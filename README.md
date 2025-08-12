@@ -2,6 +2,7 @@
 並使用 Google Apps Script 將資料上傳到 Google Sheets。
 
 
+
 ## 使用方式
 
 ### 1. 設定 Google Apps Script
