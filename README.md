@@ -4,7 +4,7 @@
 ## 專案結構
 ```
 .
-├── battery_log.sh     # 主要的 Shell Script
+├── battery_logger.sh     # 主要的 Shell Script
 ├── apps_script.gs     # Google Apps Script 範例
 └── README.md
 ```
